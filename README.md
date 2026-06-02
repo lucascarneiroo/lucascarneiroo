@@ -1,6 +1,6 @@
 # Olá! 👋
 
-Sou **Lucas Oliveira Carneiro**, estudante de **Ciência da Computação** e apaixonado por tecnologia.
+Me chamo **Lucas Oliveira Carneiro**,tenho 21 anos, sou estudante de **Ciência da Computação** e apaixonado por tecnologia.
 
 Gosto de transformar ideias em projetos e utilizar a programação para resolver problemas do dia a dia.
 
