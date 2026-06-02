@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**lucascarneiroo/lucascarneiroo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Lucas Oliveira Carneiro**, estudante de **Ciência da Computação** e apaixonado por tecnologia.
 
-Here are some ideas to get you started:
+Gosto de transformar ideias em projetos e utilizar a programação para resolver problemas do dia a dia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente estou no **7º período de Ciência da Computação** e me especializando em **Desenvolvimento Back-End com Java**.
+
+Minha principal stack inclui **Java, Python, Programação Orientada a Objetos, Git, GitHub e Power BI**.
+
+Tenho experiência em projetos acadêmicos e pessoais, sempre buscando evoluir minhas habilidades em desenvolvimento de software, boas práticas de programação e resolução de problemas.
+
+## 🚀 Tecnologias e Ferramentas
+
+- ☕ Java
+- 🐍 Python
+- 💻 Programação Orientada a Objetos (POO)
+- 🔧 Git e GitHub
+- 📊 Power BI
+- 🖥️ Pacote Office
+- 🛠️ Suporte Técnico de TI
+
+
+> "A evolução acontece um código de cada vez." 🚀
